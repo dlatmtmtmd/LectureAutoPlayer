@@ -5,6 +5,7 @@ env/
 
 # PyInstaller build files
 build/
+dist
 *.spec
 
 # Python cache
