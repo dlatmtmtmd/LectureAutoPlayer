@@ -2,7 +2,7 @@
 
 TLS에서 강좌의 모든 강의 동영상을 자동으로 재생&스킵하여 완료도 100%로 만들어주는 프로그램입니다.
 
-## 📥 다운로드 (가장 쉬운 방법)
+## 📥 다운로드 
 
 **[Releases](https://github.com/dlatmtmtmd/LectureAutoPlayer/releases)** 페이지에서 `LectureAutoPlayer.exe` 파일을 다운로드하여 바로 실행하세요.
 
